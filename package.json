@@ -4,7 +4,7 @@
   "description": "고유번호 발급 디스코드 봇",
  "main": "src/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
