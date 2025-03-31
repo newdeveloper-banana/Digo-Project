@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "고유번호 발급 디스코드 봇",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "MIT"
+}
