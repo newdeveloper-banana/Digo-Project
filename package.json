@@ -2,7 +2,7 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "고유번호 발급 디스코드 봇",
-  "main": "server.js",
+ "main": "src/server.js",
   "scripts": {
     "start": "node server.js"
   },
